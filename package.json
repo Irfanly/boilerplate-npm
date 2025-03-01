@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "irfanly",
+	"description": "This project is for learning how to use package.json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,8 +14,6 @@
 		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"version": "1.0.0",
-	"description": "This project is for learning how to use package.json",
-	"author": "irfanly",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
