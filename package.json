@@ -3,6 +3,7 @@
 	"author": "irfanly",
 	"description": "This project is for learning how to use package.json",
 	"keywords": ["freecodecamp", "practice", "backend"],
+	"licenses": ["MIT"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
